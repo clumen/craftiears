@@ -1,6 +1,6 @@
 # Getting Started
 
-These steps will get this sample HTML application running for you using DigitalOcean App Platform.
+These are the steps that will get this sample HTML application running for you using DigitalOcean App Platform.
 
 **Note: Following these steps may result in charges for the use of DigitalOcean services**
 
